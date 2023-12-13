@@ -1,0 +1,4 @@
+token=5846852661:AAF7U0lC4Otp01K69fx8D0SLskp1hHyRrKo;
+site=http://localhost;
+period=5;
+teststring=Пароль;
