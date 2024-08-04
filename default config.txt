@@ -1,4 +1,0 @@
-token=TELEGRAMTOKEN it can be created in @BotFather;
-site=http://localhost;
-period=5;
-teststring=Пароль;
