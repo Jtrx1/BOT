@@ -1,1 +1,4 @@
 default config.txt
+config.txt
+chatid.db
+*.log
